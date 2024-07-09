@@ -1,2 +1,2 @@
 # POP
-Preference Optimization for Pretraining
+Preference Optimization for Pretraining, a loss function.
